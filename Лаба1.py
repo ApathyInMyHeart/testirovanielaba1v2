@@ -18,6 +18,8 @@ def find_roots(a, b, c):
 
 
 
+
+
 # Пример использования
 a, b, c = 1, -3, 2
 roots = find_roots(a, b, c)
