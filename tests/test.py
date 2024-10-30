@@ -1,4 +1,4 @@
-from laba1.Лаба1 import find_roots
+from Лаба1 import find_roots
 
 
 def test_find_roots():
