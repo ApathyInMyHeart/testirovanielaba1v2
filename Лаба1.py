@@ -17,6 +17,7 @@ def find_roots(a, b, c):
         return None  # Нет действительных корней
 
 
+
 # Пример использования
 a, b, c = 1, -3, 2
 roots = find_roots(a, b, c)
